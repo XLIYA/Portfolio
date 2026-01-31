@@ -50,23 +50,16 @@ export default function Hero() {
             <div className="absolute -left-1 top-6 hidden md:flex flex-col items-center gap-4">
               <span className="h-16 w-px bg-foreground/20" />
               <a
-                href="https://github.com/XLIYA"
-                target="_blank"
-                rel="noopener noreferrer"
                 className="text-xs tracking-[0.25em] text-foreground/60 hover:text-foreground transition-colors [writing-mode:vertical-rl]"
               >
                 GITHUB
               </a>
               <a
-                href="https://linkedin.com/in/ilya-ag"
-                target="_blank"
-                rel="noopener noreferrer"
                 className="text-xs tracking-[0.25em] text-foreground/60 hover:text-foreground transition-colors [writing-mode:vertical-rl]"
               >
                 LINKEDIN
               </a>
               <a
-                href="mailto:xilyag@gmail.com"
                 className="text-xs tracking-[0.25em] text-foreground/60 hover:text-foreground transition-colors [writing-mode:vertical-rl]"
               >
                 EMAIL
@@ -147,7 +140,7 @@ export default function Hero() {
                 Get in touch
               </a>
               <a
-                href="#portfolio"
+                href="https://asman-web.liara.run"
                 className="inline-flex items-center justify-center rounded-xl border border-border/60 bg-card/20 px-6 py-3 text-sm font-medium text-foreground transition hover:bg-card/40"
               >
                 View work
